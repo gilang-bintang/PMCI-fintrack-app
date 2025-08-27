@@ -1,6 +1,8 @@
 # Personal Finance Dashboard
 
-A local pilot application for analyzing personal bank statements with AI-powered transaction categorization and financial insights.
+A pilot application for analyzing personal bank statements with AI-powered transaction categorization and financial insights.
+
+<img width="651" height="526" alt="Screenshot 2025-08-27 at 16 34 29" src="https://github.com/user-attachments/assets/bdb8e038-7fd6-4ee0-af4f-6c02fbe292b7" />
 
 ## Overview
 
